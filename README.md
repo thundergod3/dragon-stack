@@ -1,5 +1,7 @@
 ### Master Full-Stack Development | Node, SQL, React, and More
 
-The experimentation code for the *Master Full-Stack Development | Node, SQL, React, and More* course on Udemy by David Joseph Katz.
+The experimentation code for the _Master Full-Stack Development | Node, SQL, React, and More_ course on Udemy by David Joseph Katz.
 
-Check out the course: [https://www.udemy.com/full-stack](https://www.udemy.com/full-stack)
+This app create by me and my friend. It's a small website which allow every one can trait and buy dragons from each others.
+
+Hope you wiil enjoy this app ^^
